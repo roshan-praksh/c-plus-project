@@ -23,4 +23,4 @@ The project implementation should have following minimum criteria to be fulfille
 2. Make sure the project operations should be user interactive and can be designed by considering the type of users(bank employee/ customers) 
 3. Appropriate data files should be created to maintain the customer and bank transaction records. Object based storage should be done. 
 4. Appropriate comments should be provided within the code for the operations implemented and their nature of calling. 
-Note: The project can be separated into multiple file(if required)
+Note: The project can be separated into multiple file(if required).
